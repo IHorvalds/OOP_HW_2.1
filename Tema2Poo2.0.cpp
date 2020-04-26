@@ -13,7 +13,7 @@ struct ExceptionTests // Simulates the interface of Node, but is not convertible
 };
 
 int main() {
-	std::cout << "Fml...\n";
+	std::cout << "Hello...\n";
 
 	std::ifstream in("Text.txt");
 
